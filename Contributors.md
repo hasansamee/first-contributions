@@ -1,6 +1,7 @@
 # Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
+- [Muhammad Hasan Samee](https://github.com/hassansamee)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
